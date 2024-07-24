@@ -1,0 +1,6 @@
+id=open_launcher_blur
+name=开启修改版桌面高级材质
+version=V 1.0
+versionCode=1
+author=在其渗透（酷安）
+description=修改system.prop文件开启特定桌面的高级材质，此模块中桌面版本号为：4.39.14.7680。
