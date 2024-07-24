@@ -1,2 +1,2 @@
-# Android-Magisk-MOD
-用于安卓系统的 Magisk 模块。
+# 开启修改版桌面高级材质
+用于部分修改版A13小米澎湃桌面的安卓系统的 Magisk 模块。
