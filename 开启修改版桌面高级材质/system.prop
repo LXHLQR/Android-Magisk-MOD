@@ -1,5 +1,0 @@
-ro.launcher.blur.appLaunch=1
-ro.sf.blurs_are_expensive=0
-persist.sys.background_blur_supported=true
-persist.sys.background_blur_mode=0
-persist.sys.background_blur_version=1
